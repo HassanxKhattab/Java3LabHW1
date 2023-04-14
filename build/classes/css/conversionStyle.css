@@ -1,0 +1,25 @@
+.label{
+    -fx-font-size: 10pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: #0c3275;
+}
+.button{
+    -fx-font-size: 10pt;
+    -fx-text-fill: white;
+    -fx-background-color: #0c3275;
+    -fx-padding: 10pt;
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+    -fx-pref-width: 80px;
+}
+.lo{
+    -fx-background-color: #dd9946;
+    -fx-font-size: 9pt;
+    -fx-pref-width: 80px;
+    -fx-min-height: 25px;
+    -fx-max-height: 25px;
+    -fx-padding: 2pt;
+}
+.err{
+    -fx-text-fill: red;
+}
